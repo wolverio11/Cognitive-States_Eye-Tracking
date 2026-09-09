@@ -1,0 +1,23 @@
+{
+  "name": "TestSession",
+  "duration": "00:05",
+  "average_score": 0.5144,
+  "peak_score": 0.9899,
+  "peak_state": "Nirodha",
+  "rolling_avg": 0.5144,
+  "state_time": {
+    "Vikshipta": 1.0,
+    "Kshipta": 0.6,
+    "Mudha": 1.5,
+    "Ekagra": 0.9,
+    "Nirodha": 1.0
+  },
+  "state_percent": {
+    "Vikshipta": 20.0,
+    "Kshipta": 12.0,
+    "Mudha": 30.0,
+    "Ekagra": 18.0,
+    "Nirodha": 20.0
+  },
+  "total_frames": 50
+}
